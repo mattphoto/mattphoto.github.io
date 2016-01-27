@@ -1,0 +1,104 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700,900);
+
+body {
+  font-family:  Roboto, Helvetica, san-serif;
+  color: #000;
+}
+
+h1.name {
+  font-size: 7em;
+  font-weight: 900;
+  line-height: .9em;
+  text-transform: uppercase;
+  letter-spacing: -.01em;
+
+}
+
+h4.title {
+  font-size: 2em;
+  font-weight: 700;
+  line-height: 1em;
+  margin-bottom: .75em;
+  color: #888;
+}
+
+.block {
+  border-top: thick solid black;
+  margin-bottom: 2em;
+}
+
+.block-head {
+  margin-top: .7em;
+  margin-bottom: .7em;
+  font-size: 2em; 
+  font-weight: 900;
+  line-height: .9em;
+  text-transform: uppercase;
+}
+
+.element-head {
+  border-top: thin solid black;
+  padding-top: 1em;
+  margin-top: .7em;
+  margin-bottom: .4em;
+  font-size: 1.5em;
+  font-weight: 600;
+  line-height: .9em;
+  color: #555;
+}
+
+.element-head a:hover {
+  color: red;
+}
+
+.element-head:active {
+  color: yellow;
+  border-bottom: thin solid black;
+}
+
+.element-subhead {
+  margin-bottom: .4em;
+  font-size: 1.2em;
+  font-weight: 600;
+  line-height: .9em;
+  color: #888;
+}
+
+.date {
+  margin-top: .7em;
+  margin-bottom: .7em;
+  font-size: 1em;
+  font-weight: 500;
+  line-height: .9em;
+  color: #999;
+/*  text-transform: uppercase;
+*/}
+
+p {
+  margin-bottom: .3em;
+  line-height: 20px;
+  font-weight: 300;
+  font-size: 14px;
+}
+
+footer {
+  color: #AAA;
+}
+
+a {
+  color: #000;
+
+}
+.about-paragraph {
+  border-top: thin solid black;
+  padding-top: 1.4em;
+  margin-bottom: .3em;
+  line-height: 20px;
+  font-weight: 300;
+  font-size: 14px;
+
+}
+
+
+
+
