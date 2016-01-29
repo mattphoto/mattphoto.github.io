@@ -51,28 +51,22 @@ h4.title {
   color: red;
 }
 
-.element-head:active {
-  color: yellow;
-  border-bottom: thin solid black;
-}
-
 .element-subhead {
   margin-bottom: .4em;
   font-size: 1.2em;
   font-weight: 600;
   line-height: .9em;
-  color: #888;
+  color: #777;
 }
 
 .date {
   margin-top: .7em;
-  margin-bottom: .7em;
+  margin-bottom: 1.5em;
   font-size: 1em;
   font-weight: 500;
   line-height: .9em;
-  color: #999;
-/*  text-transform: uppercase;
-*/}
+  color: #888;
+}
 
 p {
   margin-bottom: .3em;
@@ -96,9 +90,11 @@ a {
   line-height: 20px;
   font-weight: 300;
   font-size: 14px;
-
 }
 
+.glyphicon-stop {
+  color: #BBB;
+}
 
 
 
