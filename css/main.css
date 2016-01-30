@@ -44,7 +44,6 @@ h4.title {
   font-size: 1.5em;
   font-weight: 600;
   line-height: .9em;
-  color: #555;
 }
 
 .element-head a:hover {
@@ -57,7 +56,7 @@ h4.title {
   font-weight: 600;
   line-height: .9em;
   color: #777;
-}
+} 2
 
 .date {
   margin-top: .7em;
@@ -81,8 +80,8 @@ footer {
 
 a {
   color: #000;
-
 }
+
 .about-paragraph {
   border-top: thin solid black;
   padding-top: 1.4em;
