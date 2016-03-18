@@ -273,8 +273,6 @@
 
 /***** MAIN CSS ****/
 
-@import url(https://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700,900);
-
 body {
   font-family:  Roboto, Helvetica, san-serif;
   color: #000;
@@ -328,7 +326,7 @@ h1.name {
   margin-top: .7em;
   margin-bottom: .4em;
   font-size: 1.5em;
-  font-weight: 600;
+  font-weight: 700;
   line-height: .9em;
 }
 
@@ -342,7 +340,7 @@ h1.name {
 .element-subhead {
   margin-bottom: .4em;
   font-size: 1.2em;
-  font-weight: 600;
+  font-weight: 500;
   line-height: .9em;
   color: #777;
 }
