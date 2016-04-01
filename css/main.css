@@ -389,13 +389,17 @@ em {
   font-size: 14px;
 }
 
-.glyphicon-stop {
-  color: #BBB;
-}
-
 .fa-external-link {
   font-size: .9em;
   color: #999;
+}
+
+.bullet:before {
+  font-family: FontAwesome;
+  content: '\f04d';
+  color: #BBB;
+  font-size: 0.95em;
+  margin-right: 6px;
 }
 
 
